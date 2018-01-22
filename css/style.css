@@ -1,3 +1,31 @@
+body {
+  background-color: black;
+}
+
 #presentation{
   background-color: red;
+}
+#experiences{
+  background-color: black;
+  color:red;
+}
+#qualitesPersonnelles{
+  background-color: red;
+}
+#activite{
+  background-color: black;
+  color:red;
+}
+#references{
+  background-color: red;
+}
+
+#darthVador{
+  height:30%;
+  width:30%;
+}
+div{
+  margin:0px;
+  padding:5px;
+  padding-left: 20px;
 }
